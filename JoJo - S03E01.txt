@@ -12,9 +12,9 @@ CREDITS:
 <Deliquent 1> (Szel)
 <Deliquent 2> 
 <Deliquent 3> (Łukasz)
-<Girl 1> (Zofia)
+<Girl 1> Lejnik
 <Girl 2> (Ola)
-<Girl 3> (Bepo) / (Dorpie)
+<Girl 3> (kogos jeszcze ogarne)
 --Intermission--
 <Guy in the car>
 <Weird Bulky Dude> (Dyczki)
@@ -193,7 +193,7 @@ Nic więcej.
 <Uczennica1> To ci niespodzianka!
 <Uczennica1> Przejdźmy się razem do szkoły!
 <Uczennica2> Włosy wspaniałe jak zwykle!
-<Uczennica3(wezmie sie kogos a jak nie to ja podłożę)> Wyglądasz supeer!!
+<Uczennica3> Wyglądasz supeer!!
 <Uczennica1> Tak się wyróżniasz od innych.
 <Josuke> Słuchajcie... Jestem teraz w trakcie dość ważnej rozmowy..
 <Uczennica2> Eeeee.. Coś nie tak?
